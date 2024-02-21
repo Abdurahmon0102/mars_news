@@ -1,0 +1,1 @@
+web: gunicorn 'NEWS_SITE.wsgi'
